@@ -1,8 +1,7 @@
 # weir
 [WEIR: Extraction and Integration of Partially Overlapping Web Sources](http://www.vldb.org/pvldb/vol6/p805-bronzi.pdf)
 
-# What to expect to get
-# Check log:
+# What to expect to get; check log:
 log/root(0).log.html
 
 # Install libraries in local maven repository before compiling
