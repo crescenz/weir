@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<site>book-abebooks</site>
+	<site>book-barnesandnoble</site>
+	<site>book-bookdepository</site>
+<!-- 	<site>book-booksamillion</site> -->
+<!-- 	<site>book-borders</site> -->
+<!-- 	<site>book-buy</site> -->
+<!-- 	<site>book-christianbook</site> -->
+<!-- 	<site>book-deepdiscount</site> -->
+<!-- 	<site>book-waterstones</site> -->
+<!-- 	<seed>9780060256678</seed> -->
+<!-- 	<seed>9780060525613</seed> -->
+<!-- 	<seed>9780060525651</seed> -->
+<!-- 	<seed>9780060554736</seed> -->
+<!-- 	<seed>9780061139673</seed> -->
+<!-- 	<seed>9780061994395</seed> -->
+<!-- 	<seed>9780091922290</seed> -->
+<!-- 	<seed>9780099387916</seed> -->
+<!-- 	<seed>9780136009986</seed> -->
+<!-- 	<seed>9780140053203</seed> -->
+</config>
+
+

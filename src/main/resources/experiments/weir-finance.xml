@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<site>bigcharts.marketwatch.com</site>
+	<site>moneycentral.msn.com</site>
+	<site>quote.barchart.com</site>
+	<site>quotes.freerealtime.com</site>
+	<site>quotes.nasdaq.com</site>
+	<site>quotes.stocknod.com</site>
+	<site>www.bloomberg.com</site>
+	<site>www.marketocracy.com</site>
+	<site>www.marketwatch.com</site>
+	<site>www.quote.com</site>
+
+	<seed>AES</seed>
+	<seed>AFL</seed>
+	<seed>TWX</seed>
+	<seed>T</seed>
+	<seed>ABT</seed>
+	<seed>ANF</seed>
+	<seed>ADPT</seed>
+	<seed>ADBE</seed>
+	<seed>AMD</seed>
+	<seed>ADVS</seed>
+
+</config>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<site>restaurant-fodors</site>
+	<site>restaurant-frommers</site>
+	<site>restaurant-gayot</site>
+	<site>restaurant-opentable</site>
+	<site>restaurant-pickarestaurant</site>
+	<site>restaurant-restaurantica</site>
+	<site>restaurant-tripadvisor</site>
+	<site>restaurant-urbanspoon</site>
+	<site>restaurant-usdiners</site>
+	<site>restaurant-zagat</site>
+	<seed>202-338-3830</seed>
+	<seed>202-638-0800</seed>
+	<seed>202-654-0999</seed>
+	<seed>202-783-1475</seed>
+	<seed>203-622-8450</seed>
+	<seed>206-283-3313</seed>
+	<seed>206-320-9771</seed>
+	<seed>206-382-6999</seed>
+	<seed>206-524-4044</seed>
+	<seed>206-632-0767</seed>
+</config>

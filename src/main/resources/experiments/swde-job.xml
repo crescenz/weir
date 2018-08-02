@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<site>job-careerbuilder</site>
+	<site>job-dice</site>
+	<site>job-hotjobs</site>
+	<site>job-job</site>
+	<site>job-jobcircle</site>
+	<site>job-jobtarget</site>
+	<site>job-monster</site>
+	<site>job-nettemps</site>
+	<site>job-rightitjobs</site>
+	<site>job-techcentric</site>
+</config>
+
+

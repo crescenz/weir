@@ -1,0 +1,190 @@
+th {
+	border : none;
+	background-color : transparent;	
+/* 	background-color : white;	 */
+}
+
+.tableHeader {
+	display: block;
+	font-family: sans-serif;
+	font-style: oblique;
+	font-weight: bold;
+	text-align: center;
+}
+
+.pageIdHeader {
+	height : 18px;
+	white-space : nowrap;
+	overflow : hidden;
+	text-align : center;
+	font-size : x-small;
+	background-color : transparent;
+}
+
+.pageIdHeader {
+	transform: 
+		translate(-2px, 0px) /* magic numbers x 
+		                        pageId rotations inside table header row */
+		rotate(-45deg);
+	width : 30px;
+}
+
+tr:hover > .pageIdHeader , th.pageIdHeader:hover {
+	height : 64px;
+	visibility : visible;
+	transition : height 1s, opacity 4s;
+	opacity : 1;
+}
+
+.pageIdHeader {
+  	padding : 5px 10px;
+	visibility : hidden;
+    opacity : 0;
+}
+
+/* styles shared among several type of Objects */
+.value {
+	overflow : hidden;
+	white-space : nowrap;
+	text-align : center;
+	font-size : x-small;
+}
+.nullValue {
+	background-color : #dddddd;
+	font-style : oblique;
+}
+.distance, .score, .similarity {
+	text-align : center;
+	font-style : oblique;
+}
+.valueDistance {
+	text-align : center;
+	font-style : oblique;
+	background-color : white;
+	border : none;
+}
+.weirId,
+.attributeId,  .goodAttributeId, .targetAttributeId, .goldenAttributeId {
+	font-style : oblique;
+	text-align : right;
+	font-size : x-small;
+}
+.targetAttributeId {
+	background-color : greenyellow;
+}
+.goodAttributeId { /* good target */
+	background-color : yellow;
+}
+.goldenAttributeId {
+	background-color : gold;
+}
+.leftId, .rightId, .pageId,
+.leftValue, .rightValue,
+.leftPage, .rightPage {
+	font-size : small;
+	white-space : nowrap;
+	overflow: hidden;	
+}
+.leftId, .leftValue, .leftPage {
+	text-align: right;
+/*	direction: rtl; */
+}
+.rightId, .rightValue, .rightPage {
+	text-align: left;	
+}
+.sep {
+	text-align : center;
+	background-color : #8888;
+	min-width : 24px;
+	font-style : oblique;
+}
+/* style of Attribute objects */
+
+.labelHeader {
+}
+
+.label {
+	white-space : nowrap;
+	font-style : oblique;
+	overflow: hidden;
+	text-align : center;	
+}
+
+.type {
+	text-align : center;
+	font-style : oblique;
+	text-transform: lowercase;
+}
+
+/* style of Mapping objects */
+
+.mappingId {
+	transform: rotate(-90deg) translateX(-29px); 
+	max-width: 24px; 
+	white-space : nowrap;
+	font-size : x-small;
+}
+
+.mappingId > span {
+	background-color: #080000;
+	opacity: 0.34;
+  	color: white;
+  	padding: 3px;
+}
+
+.goldenMapping {
+	background : gold;
+}
+
+/* DomainLinkageSummary */
+.siteId {
+	height : 128px;
+	transform: 
+		translate(-8px, 28px) /* magic numbers x s rotations */
+		rotate(-45deg);
+	width : 30px;
+}
+.siteLinkage {
+    text-align: center;
+}
+
+/* style of WebsiteLinkage Objects */
+
+.index {
+	text-align: center;
+}
+.linkageUsage {
+	text-align: center;	
+	background-color : white;
+}
+.headerUsage {
+	background-color : white;
+	text-align: center;	
+}
+
+/* style of invariants */
+.invariant {
+	font-size: small;
+	font-family: monospace;
+	text-align: center;
+}
+
+/* style of template tokens */
+.templateToken {
+	font-size : small;
+	font-family : monospace;
+	white-space : nowrap;
+	overflow: auto;
+}
+
+.templateTokenRole {
+	font-size: x-small;
+	font-family: sans-serif;	
+	overflow: visible;
+}
+
+/* styles for displaying result numbers */
+.result {
+	display : block; 
+	text-align : right;
+}

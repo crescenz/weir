@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<site>camera-amazon</site>
+	<site>camera-beachaudio</site>
+	<site>camera-buy</site>
+	<site>camera-compsource</site>
+	<site>camera-ecost</site>
+	<site>camera-jr</site>
+	<site>camera-newegg</site>
+	<site>camera-onsale</site>
+	<site>camera-pcnation</site>
+	<site>camera-thenerds</site>
+<!-- 	<seed>06852</seed> -->
+<!-- 	<seed>227510</seed> -->
+<!-- 	<seed>227515</seed> -->
+<!-- 	<seed>26195</seed> -->
+<!-- 	<seed>3637B001</seed> -->
+<!-- 	<seed>4342B001</seed> -->
+<!-- 	<seed>8009581</seed> -->
+<!-- 	<seed>8281180</seed> -->
+<!-- 	<seed>8721664</seed> -->
+<!-- 	<seed>8770414</seed> -->
+<!-- 	<seed>8836645</seed> -->
+</config>

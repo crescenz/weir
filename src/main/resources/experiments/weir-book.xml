@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<site>bookmooch.com</site>
+	<site>bookshop.blackwell.co.uk</site>
+	<site>www.amazon.com</site>
+	<site>www.barnesandnoble.com</site>
+	<site>www.bookdepository.co.uk</site>
+	<site>www.bookfinder4u.com</site>
+	<site>www.bookrenter.com</site>
+	<site>www.booksandebooks.net</site>
+	<site>www.ecampus.com</site>
+	<site>www.goodreads.com</site>
+
+	<seed>0001049305</seed>
+	<seed>0001049313</seed>
+	<seed>0001049321</seed>
+	<seed>0001049356</seed>
+	<seed>0001049410</seed>
+	<seed>0001049429</seed>
+	<seed>0001049682</seed>
+	<seed>0001049690</seed>
+	<seed>0001049852</seed>
+	<seed>0001049860</seed>
+	<seed>0001049895</seed>
+	<seed>0001050028</seed>
+	<seed>0001050044</seed>
+	<seed>0001050052</seed>
+	<seed>0001050060</seed>
+	<seed>0001050079</seed>
+	<seed>0001050087</seed>
+	<seed>0001050095</seed>
+	<seed>0001050109</seed>
+	<seed>0001050117</seed>
+</config>

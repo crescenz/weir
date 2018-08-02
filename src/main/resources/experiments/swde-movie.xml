@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<site>movie-allmovie</site>
+	<site>movie-amctv</site>
+	<site>movie-boxofficemojo</site>
+	<site>movie-hollywood</site>
+	<site>movie-iheartmovies</site>
+	<site>movie-imdb</site>
+	<site>movie-metacritic</site>
+	<site>movie-msn</site>
+	<site>movie-rottentomatoes</site>
+	<site>movie-yahoo</site>
+	
+	<seed>2001: A Space Odyssey</seed>
+	<seed>A Life Less Ordinary</seed>
+	<seed>A Little Princess</seed>
+	<seed>Bad Boys</seed>
+	<seed>Bad Company</seed>
+	<seed>Basic Instinct</seed>
+	<seed>Blade Runner</seed>
+	<seed>Conan the Barbarian</seed>
+	<seed>Father of the Bride</seed>
+	<seed>Friday the 13th</seed>
+</config>

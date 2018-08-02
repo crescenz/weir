@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<site>games.teamxbox.com</site>
+	<site>ps2.gamespy.com</site>
+	<site>reviews.cnet.com</site>
+	<site>videogames.yahoo.com</site>
+	<site>www.askmen.com</site>
+	<site>www.cduniverse.com</site>
+	<!-- <site>www.gamequestdirect.com</site> -->
+	<site>www.games.net</site>
+	<site>www.metacritic.com</site>
+	<site>www.nintendo.com</site>
+
+	<seed>2006 FIFA World Cup</seed>
+	<seed>Alien Hominid</seed>
+	<seed>Aliens: Colonial Marines</seed>
+	<seed>Avatar: The Last Airbender</seed>
+	<seed>Bee Movie Game</seed>
+	<seed>Bionicle Heroes</seed>
+	<seed>Bliss Island</seed>
+	<seed>Blitz: The League</seed>
+	<seed>BloodRayne</seed>
+	<seed>Bolt</seed>
+	<seed>Brain Challenge</seed>
+	<seed>Brave: A Warrior's Tale</seed>
+</config>

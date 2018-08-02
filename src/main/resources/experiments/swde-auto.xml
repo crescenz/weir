@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<site>auto-aol</site>
+	<site>auto-autobytel</site>
+	<site>auto-automotive</site>
+	<site>auto-autoweb</site>
+	<site>auto-carquotes</site>
+	<site>auto-cars</site>
+	<site>auto-kbb</site>
+	<site>auto-motortrend</site>
+	<site>auto-msn</site>
+	<site>auto-yahoo</site>
+	<seed>2010 BMW M3</seed>
+	<seed>2010 BMW X5</seed>
+	<seed>2010 BMW X6 M</seed>
+	<seed>2010 BMW Z4</seed>
+	<seed>2010 Bentley Continental GT</seed>
+	<seed>2010 Bentley Continental GTC</seed>
+	<seed>2010 Chevrolet Aveo</seed>
+	<seed>2010 Chevrolet Express 1500</seed>
+	<seed>2010 Dodge Journey 2010 Ford Fusion</seed>
+	<seed>2010 GMC Savana 1500</seed>
+</config>
+
+

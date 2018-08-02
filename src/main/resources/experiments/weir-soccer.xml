@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<site>football.uk.reuters.com</site>
+	<site>soccernet.espn.go.com</site>
+	<site>sports.sportsillustrated.cnn.com</site>
+	<site>uk.eurosport.yahoo.com</site>
+	<site>www.123football.com</site>
+	<site>www.footymania.com</site>
+	<site>www.skysports.com</site>
+	<site>www.teamtalk.com</site>
+	<site>www.wallpaper-football.com</site>
+	<site>www.worldfootballers.com</site>
+	
+	<seed>Abel Xavier</seed>
+	<seed>Alan O'Brien</seed>
+	<seed>Albert Luque</seed>
+	<seed>Alex</seed>
+	<seed>Andreas Ottl</seed>
+	<seed>Andrew Taylor</seed>
+	<seed>Andri Pyatov</seed>
+	<seed>Artem Kravets</seed>
+	<seed>Badr El Kaddouri</seed>
+	<seed>Bastian Schweinsteiger</seed>
+	<seed>Breno</seed>
+</config>

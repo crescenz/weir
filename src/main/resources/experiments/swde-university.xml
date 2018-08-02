@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<site>university-collegeboard</site>
+	<site>university-collegenavigator</site>
+	<site>university-collegeprowler</site>
+	<site>university-collegetoolkit</site>
+	<site>university-ecampustours</site>
+	<site>university-embark</site>
+	<site>university-matchcollege</site>
+	<site>university-princetonreview</site>
+	<site>university-studentaid</site>
+	<site>university-usnews</site>
+	
+	<seed>Albright College</seed>
+	<seed>Anderson University</seed>
+	<seed>Appalachian State University</seed>
+	<seed>Augsburg College</seed>
+	<seed>Austin College</seed>
+	<seed>Belmont Abbey College</seed>
+	<seed>Brenau University</seed>
+	<seed>Brescia University</seed>
+	<seed>Bridgewater College</seed>
+	<seed>Buena Vista University</seed>
+</config>

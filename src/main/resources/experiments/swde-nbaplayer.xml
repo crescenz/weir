@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+ 	<site>nbaplayer-espn</site>
+ 	<site>nbaplayer-fanhouse</site>
+	<site>nbaplayer-foxsports</site>
+	<site>nbaplayer-msnca</site>
+	<site>nbaplayer-nba</site>
+	<site>nbaplayer-si</site>
+    <site>nbaplayer-slam</site>	
+	<site>nbaplayer-usatoday</site>  <!-- slow -->
+	<site>nbaplayer-wiki</site>      <!-- the slowest, by far -->
+	<site>nbaplayer-yahoo</site>     <!-- slow -->
+</config>
