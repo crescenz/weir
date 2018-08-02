@@ -14,8 +14,8 @@ mvn deploy:deploy-file -DgroupId=it.uniroma3.roadrunner -DartifactId=token -Dver
 mvn deploy:deploy-file -DgroupId=secondstring -DartifactId=secondstring -Dversion=20060615 -Durl=file:./libs/ -DrepositoryId=in-project -DupdateReleaseInfo=true -Dfile=libs/secondstring-20060615.jar
 
 
-With eclipse, run launch config: 
+#With eclipse, run launch config: 
 launch-config/'WEIR  nbaplayer.launch'
 
-Check log:
+#Check log:
 log/root(0).log.html
