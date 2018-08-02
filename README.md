@@ -1,6 +1,11 @@
 # weir
 [WEIR: Extraction and Integration of Partially Overlapping Web Sources](http://www.vldb.org/pvldb/vol6/p805-bronzi.pdf)
 
+# Get the dataset
+[dataset](https://www.dropbox.com/s/oj9pcooewbogknb/weir-dataset.tar.gz?dl=0)
+
+# tar xzvf weir-dataset.tar.gz _in the root folder of the  project_
+
 # What to expect to get; check log:
 log/root(0).log.html
 
@@ -22,3 +27,4 @@ launch-config/'WEIR  nbaplayer.launch'
 
 # Check log:
 log/root(0).log.html
+
